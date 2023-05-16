@@ -5,6 +5,10 @@ body {
   color: #333;
 }
 
+header {
+  display: flex;
+  justify-content: center;
+}
 section {
   background-color: #eee9e9;
   padding: 20px;
